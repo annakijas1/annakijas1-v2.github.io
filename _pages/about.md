@@ -6,12 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image:
+  image:""
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <hr>
-   <p style="text-align:center"><a href="https://annakijas1.github.io/assets/pdf/2025-Kijas_CV.pdf">My C.V.</a></p>
-   <hr>
+  more_info:""
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
